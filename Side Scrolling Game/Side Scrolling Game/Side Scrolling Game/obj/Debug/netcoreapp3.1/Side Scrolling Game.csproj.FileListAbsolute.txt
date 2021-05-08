@@ -1,0 +1,16 @@
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.exe
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.deps.json
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.runtimeconfig.json
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.runtimeconfig.dev.json
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.dll
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\bin\Debug\netcoreapp3.1\Side Scrolling Game.pdb
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.csprojAssemblyReference.cache
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side_Scrolling_Game.Form1.resources
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side_Scrolling_Game.Properties.Resources.resources
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.csproj.GenerateResource.cache
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.AssemblyInfoInputs.cache
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.AssemblyInfo.cs
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.csproj.CoreCompileInputs.cache
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.dll
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.pdb
+D:\Richie\School\School\School\Home School\C#\Practice\Side Scrolling Game\Side Scrolling Game\Side Scrolling Game\obj\Debug\netcoreapp3.1\Side Scrolling Game.genruntimeconfig.cache

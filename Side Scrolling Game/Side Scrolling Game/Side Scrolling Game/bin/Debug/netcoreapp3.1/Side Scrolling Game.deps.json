@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Side Scrolling Game/1.0.0": {
+        "runtime": {
+          "Side Scrolling Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Side Scrolling Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
